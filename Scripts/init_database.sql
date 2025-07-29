@@ -8,4 +8,4 @@ CREATE DATABASE IF NOT EXISTS DataWarehouse_Silver;
 CREATE DATABASE IF NOT EXISTS DataWarehouse_Gold;
 
 -- run this to use the respective databases.
--- use datawarehouse <database name> ;
+-- use <database name> ;
