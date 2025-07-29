@@ -21,4 +21,5 @@ This project involves designing and implementing a scalable data warehouse using
 - **MySQL 8.x
 - **MySQL Workbench
 - **Draw.io
+- ** Notion
 
