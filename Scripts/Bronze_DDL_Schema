@@ -36,7 +36,7 @@ create table if not exists bronze_crm_sales_details(
 /*Load the data into CRM tables using Bulk Insert*/
 -- As my script for bulk insert is not working due to restriced access I am using direct import of data through the work bench
 
-select * from bronze_crm_sales_details;
+
 
 /*ERP tables*/
 create table if not exists bronze_erp_loc_a101(
