@@ -1,5 +1,6 @@
 /*
 Creating the necessary databases this collections of DB's form the DataWarehouse.
+Here we are using the medallion type.
 */
 -- Create the 3 Sections of the data warehouse ie the Bronze , Silver , Gold
 -- Create the DataWrehouse.
